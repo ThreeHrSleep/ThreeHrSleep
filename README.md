@@ -1,6 +1,7 @@
-# hello anon!
+## just a security researcher tinkering with stuff :)
+<br>
 
 
-## I'm a security researcher trying out node/core dev for fun
+<img align="right" alt="GIF" src="https://tenor.com/bm3p7.gif" width="300px" height="340"  />
 
-
+<br>
