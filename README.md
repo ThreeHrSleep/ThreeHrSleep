@@ -1,2 +1,3 @@
-discord & telegram: @threehrsleep
+- signal: threehrsleep.11 
+- discord & telegram: threehrsleep
 
