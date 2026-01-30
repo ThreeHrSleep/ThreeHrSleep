@@ -4,6 +4,7 @@
       <ul>
         <li>signal: <code>threehrsleep.11</code></li>
         <li>discord &amp; telegram: <code>threehrsleep</code></li>
+        <li>mail: <code>threehrsleep@tutamail.com</code></li>
       </ul>
     </td>
     <td align="right">
