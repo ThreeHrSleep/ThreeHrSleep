@@ -6,8 +6,5 @@
         <li>discord &amp; telegram: <code>threehrsleep</code></li>
       </ul>
     </td>
-    <td align="right">
-      <img src="https://pumpernickelpixie.com/wp-content/uploads/2015/06/33.gif" alt="owl gif" height="120">
-    </td>
   </tr>
 </table>
